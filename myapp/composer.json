@@ -53,6 +53,9 @@
     "optimize-autoloader": true,
     "allow-plugins": {
       "kylekatarnls/update-helper": true
+    },
+    "audit": {
+      "block-insecure": false
     }
   }
 }
